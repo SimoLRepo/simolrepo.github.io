@@ -2,6 +2,6 @@ title: My GitHub Page
 theme: minima
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - About: about.md
-  - Contact: contact.md
+  - Progetti: projects.md
+  - Chi siamo: about.md
+  - Conttti: contact.md
