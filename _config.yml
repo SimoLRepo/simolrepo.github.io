@@ -3,5 +3,5 @@ theme: minima
 nav:
   - Home: index.md
   - Progetti: projects.md
-  - Chi siamo: about.md
+  - Info: about.md
   - Conttti: contact.md
