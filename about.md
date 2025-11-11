@@ -3,6 +3,8 @@ layout: default
 title: About
 permalink: /about/
 ---
-# About
 
-Questa è la pagina "About".
+# About Me
+
+Questa è la pagina "About".  
+Qui puoi raccontare chi sei, cosa fai, ecc.
