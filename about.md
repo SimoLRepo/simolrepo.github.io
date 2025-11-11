@@ -1,9 +1,8 @@
 ---
 layout: default
 title: About
+permalink: /about/
 ---
+# About
 
-# About Me
-
-Questa è la pagina "About".  
-Qui puoi raccontare chi sei, cosa fai, ecc.
+Questa è la pagina "About".
